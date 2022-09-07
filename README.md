@@ -1,4 +1,4 @@
-# BrainFuckCInterpreter
+# BrainfuckCInterpreter
 BrainFuckのインタプリタ。
 C言語で書かれている。
 このソースコードをコンパイルして使う。
